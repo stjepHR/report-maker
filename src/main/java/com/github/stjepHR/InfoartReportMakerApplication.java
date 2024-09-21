@@ -19,6 +19,9 @@ import com.github.stjepHR.utils.DataUtils;
 import com.github.stjepHR.utils.DataWriter;
 import com.github.stjepHR.utils.HTTPUtils;
 
+/**
+ * Main orchestrator class.
+ */
 public class InfoartReportMakerApplication {
 	
 	private static final Logger logger = LoggerFactory.getLogger(InfoartReportMakerApplication.class);

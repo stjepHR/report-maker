@@ -10,6 +10,9 @@ import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * File reading utility class.
+ */
 public class DataReader {
 
 	private static final Logger logger = LoggerFactory.getLogger(DataReader.class);

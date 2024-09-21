@@ -16,6 +16,9 @@ import com.github.stjepHR.model.StockKey;
 import com.github.stjepHR.model.Store;
 import com.github.stjepHR.utils.DataUtils;
 
+/**
+ * Centralized storage class which instance is intended to hold the HashMaps as input data structures.
+ */
 public class DataStorage {
 
 	private static final Logger logger = LoggerFactory.getLogger(DataStorage.class);

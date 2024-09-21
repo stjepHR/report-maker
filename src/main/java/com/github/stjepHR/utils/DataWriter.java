@@ -9,6 +9,9 @@ import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * File writing utility class.
+ */
 public class DataWriter {
 	
 	private static final Logger logger = LoggerFactory.getLogger(DataWriter.class);

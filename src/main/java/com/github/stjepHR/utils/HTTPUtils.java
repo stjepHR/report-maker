@@ -9,6 +9,9 @@ import java.net.URL;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * HTTP related utility class.
+ */
 public class HTTPUtils {
 
 	private static final Logger logger = LoggerFactory.getLogger(HTTPUtils.class);

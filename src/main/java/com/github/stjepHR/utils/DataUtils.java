@@ -9,6 +9,9 @@ import java.util.TreeMap;
 
 import com.github.stjepHR.model.ExchangeRate;
 
+/**
+ * Data processing utility class.
+ */
 public class DataUtils {
 
 	/**

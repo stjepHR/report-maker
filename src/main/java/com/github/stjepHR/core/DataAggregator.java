@@ -14,6 +14,9 @@ import com.github.stjepHR.model.Product;
 import com.github.stjepHR.model.StockKey;
 import com.github.stjepHR.model.Store;
 
+/**
+ *  Aggregator class used for preparing output files rows using the DataStorage instance.
+ */
 public class DataAggregator {
 
 	private static final Logger logger = LoggerFactory.getLogger(DataAggregator.class);
